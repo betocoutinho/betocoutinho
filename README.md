@@ -1,6 +1,11 @@
 ## Bem-vindo ao meu GitHub!!!
 
 
+🎓 **Estudando**: Sistemas de Informação na UNINASSAU Olinda.
+
+📖 **Aprendendo**: Java e Spring.
+
+
 
 
 
